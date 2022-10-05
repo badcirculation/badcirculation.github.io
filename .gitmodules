@@ -1,3 +1,6 @@
 [submodule "themes/themes/smol"]
 	path = themes/themes/smol
 	url = https://github.com/colorchestra/smol.git
+[submodule "themes/hugo-researcher"]
+	path = themes/hugo-researcher
+	url = https://github.com/ojroques/hugo-researcher.git
