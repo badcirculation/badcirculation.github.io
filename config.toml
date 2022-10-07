@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-researcher'
 
-params]
+[params]
   author = "Olivier Roques"
   description = "A simple monospaced resume theme for Hugo."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
