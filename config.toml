@@ -1,6 +1,6 @@
 baseURL = 'https://badcirculation.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Bad Circulation'
 theme = 'hugo-researcher'
 
 [params]
