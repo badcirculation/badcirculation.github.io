@@ -1,11 +1,10 @@
 ---
-title: "Bad Circulation"
+title: "Badcirculation"
 date: 2022-10-05T21:02:20+01:00
 draft: false
 ---
 
-Antonio Roberts is an artist and musician based in Birmingham, UK. For his audiovisual performances he uses software including Pure Data and TidalCycles to explore the creative potential of algorithms, glitches, and feedback loops.
-Maria Witek is a Polish-Norwegian music scientist working in Birmingham, UK. She live codes dance music in TidalCycles, partly informed by her academic research, which investigates the relationship between rhythm, body-movement and affect. 
+Badcirculation are Antonio Roberts (hellocatfood) and Maria Witek (mxwx). They use live coding software to collaboratively live code experimental techno and house, pursuing a high energy aesthetic that is both heavy and groovy.
 
 # Shows
 
@@ -23,4 +22,13 @@ Maria Witek is a Polish-Norwegian music scientist working in Birmingham, UK. She
 | 19/03/2020   | Eulerroom Equinox, Online | [info/tickets](https://equinox.eulerroom.com/)
 | 07/02/2020   | ICLC, Ireland |
 | 16/08/2019   | Coventry Algorave, Herbert Museum and Art Gallery, Coventry | [info/tickets](https://www.theherbert.org/whats_on/1449/algorave)
- 
+
+# Listen
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1242599782&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/867434083&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+# Watch
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nz_7B4AeypM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
