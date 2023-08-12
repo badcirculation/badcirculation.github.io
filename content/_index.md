@@ -31,4 +31,4 @@ Badcirculation are Antonio Roberts (hellocatfood) and Maria Witek (mxwx). They u
 
 # Watch
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nz_7B4AeypM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube nz_7B4AeypM >}}
