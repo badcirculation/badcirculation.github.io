@@ -7,10 +7,15 @@ draft: false
 Badcirculation are Antonio Roberts (hellocatfood) and Maria Witek (mxwx). They use live coding software to collaboratively live code experimental techno and house, pursuing a high energy aesthetic that is both heavy and groovy.
 
 Soundcloud: [soundcloud.com/badcirculation](https://soundcloud.com/badcirculation)
+
 Instagram: [instagram.com/badcirculation](https://www.instagram.com/badcirculationband)
+
 Youtube: [youtube.com/@badcirculation](https://www.youtube.com/@badcirculation)
+
 Twitter: [twitter.com/badcirculation_](https://twitter.com/badcirculation_)
+
 LinkTree: [linktr.ee/badcirculation](https://linktr.ee/badcirculation)
+
 e-mail: badcirculation at gmail dot com
 
 # Shows
