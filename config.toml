@@ -1,23 +1,23 @@
 baseURL = 'https://badcirculation.github.io'
 languageCode = 'en-us'
-title = 'Badcirculation'
+title = 'BadCirculation'
 theme = 'hugo-researcher'
 
 [params]
-  author = "Badcirculation"
-  description = "Bad C"
+  author = "BadCirculation"
+  description = "BadCirculaion"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
-  logo = ""  # url or path to a logo to put in the header
+  logo = "/badcirculation_logo.png"  # url or path to a logo to put in the header
   [params.footer]
     #text = "By Olivier Roques"
     #url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     fontSize = "14pt"
-    pageWidth = "750px"
+    pageWidth = "1000px"
     avatarSize = "90px"
-    colorBlack = "#222222"
-    colorRed = "#dc3545"
+    colorBlack = "#fff"
+    colorRed = "#fff"
 #  [[params.socialIcons]]
 #    icon = "fab fa-twitter"
 #    title = "Twitter"
