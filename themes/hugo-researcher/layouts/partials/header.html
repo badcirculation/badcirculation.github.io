@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-sm flex-column flex-sm-row text-nowrap p-0">
         <a class="navbar-brand mx-0 mr-sm-auto" href="{{ .Site.BaseURL }}" title="{{ .Site.Title }}">
           {{ with .Site.Params.logo }}
-            <img src="{{ . | absURL }}" alt="logo">
+            <img src="{{ . | absURL }}" alt="logo" style="width:100%">
           {{ end }}
 <!--          {{ .Site.Title }}-->
         </a>
