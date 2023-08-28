@@ -53,9 +53,9 @@ draft: false
 {{< gallery >}}
   {{< figure src="images/amro_eva_maria_dreisiebner_001.jpg" caption="Photo by Maria Dreisiebner" >}}
   {{< figure src="images/corridor_of_light_jon_tutcher_001.jpg" caption="Photo by Jon Tutcher" >}}
-  {{< figure src="images/errrorcamp_ray_001.jpg" caption="Photo by Ray Morrison" >}}
-  {{< figure src="images/errrorcamp_ray_002.jpg" caption="Photo by Ray Morrison" >}}
-  {{< figure src="images/fakedac_ray_001.jpg" caption="Photo by Ray Morrison" >}}
-  {{< figure src="images/fakedac_ray_002.jpg" caption="Photo by Ray Morrison" >}}
+  {{< figure src="images/errrorcamp_ray_001.jpg" caption="Photo by Ray" >}}
+  {{< figure src="images/errrorcamp_ray_002.jpg" caption="Photo by Ray" >}}
+  {{< figure src="images/fakedac_ray_001.jpg" caption="Photo by Ray" >}}
+  {{< figure src="images/fakedac_ray_002.jpg" caption="Photo by Ray" >}}
   {{< figure src="images/iclc_robin_parmar_001.jpg" caption="Photo by Robin Parmar" >}}
 {{< /gallery >}}
