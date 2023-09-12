@@ -26,7 +26,7 @@ draft: false
 | 12/09/2021   | Errorcamp |
 | 18/07/2020   | Network Music Festival, Online      | [info/tickets](https://networkmusicfestival.org/algorave/)
 | 19/03/2020   | Eulerroom Equinox, Online | [info/tickets](https://equinox.eulerroom.com/)
-| 07/02/2020   | ICLC, Ireland |
+| 07/02/2020   | ICLC, Limerick, Ireland | [info/tickets](https://iclc.toplap.org/2020/schedule.html)
 | 16/08/2019   | Coventry Algorave, Herbert Museum and Art Gallery, Coventry | [info/tickets](https://www.theherbert.org/whats_on/1449/algorave)
 
 ---
@@ -45,7 +45,7 @@ draft: false
 
 {{< youtube nz_7B4AeypM >}}
 
-{{< youtube AlhEc2N8VII >}}
+{{< youtube Vnw4r_orZTc>}}
 
 ---
 
