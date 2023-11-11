@@ -19,6 +19,7 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
+| 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
 | 01/09/2022   | fakedac~ 003, Corsica Studios, London  | [info/tickets](https://fakedac.net/event/2)
 | 17/06/2022   | Art Meets Radical Openness, Austria    | [info/tickets](https://www.radical-openness.org/en/programm/2022/algorave-badcirculation)
 | 31/03/2022   | 10 Years of Algorave, Corsica Studios, London | [info/tickets](https://ra.co/events/1499155)
