@@ -19,7 +19,8 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
-| 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/)
+| 29/03/2024   | Algorave x Pattern Club, Sheffield     | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747?) |
+| 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
 | 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
 | 01/09/2022   | fakedac~ 003, Corsica Studios, London  | [info/tickets](https://fakedac.net/event/2)
 | 17/06/2022   | Art Meets Radical Openness, Austria    | [info/tickets](https://www.radical-openness.org/en/programm/2022/algorave-badcirculation)
