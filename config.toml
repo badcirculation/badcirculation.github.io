@@ -1,11 +1,11 @@
 baseURL = 'https://badcirculation.github.io'
 languageCode = 'en-us'
-title = 'BadCirculation'
+title = 'badcirculation'
 theme = 'hugo-researcher'
 
 [params]
-  author = "BadCirculation"
-  description = "BadCirculaion"
+  author = "badcirculation"
+  description = "badcirculation are Antonio Roberts and Maria Witek. They use live coding software to collaboratively live code experimental techno and house, pursuing a high energy aesthetic that is both heavy and groovy."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = "/badcirculation_logo.png"  # url or path to a logo to put in the header
   [params.footer]
