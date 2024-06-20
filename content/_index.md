@@ -21,6 +21,8 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
+| 11 - 13/10/24 | No Bounds Festival, Sheffield         | [info/tickets](https://noboundsfestival.co.uk/) |
+| 02 - 04/08/24 | Supernormal, Oxfordshire              | [info/tickets](https://www.supernormalfestival.co.uk/) |
 | 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield     | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
 | 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
 | 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
