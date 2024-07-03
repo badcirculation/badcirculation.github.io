@@ -22,6 +22,7 @@ draft: false
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
 | 11 - 13/10/24 | No Bounds Festival, Sheffield         | [info/tickets](https://noboundsfestival.co.uk/) |
+| 14/09/24     | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
 | 02 - 04/08/24 | Supernormal, Oxfordshire              | [info/tickets](https://www.supernormalfestival.co.uk/) |
 | 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield     | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
 | 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
