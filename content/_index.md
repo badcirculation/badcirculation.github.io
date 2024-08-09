@@ -6,12 +6,11 @@ draft: false
 
 ## badcirculation is a collaboration between Antonio Roberts (hellocatfood) and Maria Witek (mxwx). Working primarily with the open source TidalCycles software, they create electronic dance music with the randomness of algorithmically generated beats. They each bring their diverse musical backgrounds to explore genres including Grime, Footwork, House and UK Garage.
 
-## Since making their debut in 2019 they have performed at Corsica Studios, Adela Festival, fakedac~, AMRO and a host of Algoraves across the UK.
+## Since making their debut in 2019 they have performed at Corsica Studios, Adela Festival, fakedac~, AMRO, Supernormal Festival, and a host of Algoraves across the UK.
 
 * Soundcloud: [soundcloud.com/badcirculation](https://soundcloud.com/badcirculation)
 * Instagram: [instagram.com/badcirculationband](https://www.instagram.com/badcirculationband)
 * Youtube: [youtube.com/@badcirculation](https://www.youtube.com/@badcirculation)
-* Twitter: [twitter.com/badcirculation_](https://twitter.com/badcirculation_)
 * LinkTree: [linktr.ee/badcirculation](https://linktr.ee/badcirculation)
 * e-mail: badcirculation at gmail dot com
 
@@ -21,10 +20,10 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
-| 12/10/24 | No Bounds Festival, Sheffield         | [info/tickets](https://noboundsfestival.co.uk/) |
-| 14/09/24     | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
-| 04/08/24 | Supernormal, Oxfordshire              | [info/tickets](https://www.supernormalfestival.co.uk/) |
-| 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield     | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
+| 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
+| 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
+| 04/08/2024   | Supernormal, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
+| 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield  [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
 | 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
 | 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
 | 01/09/2022   | fakedac~ 003, Corsica Studios, London  | [info/tickets](https://fakedac.net/event/2)
