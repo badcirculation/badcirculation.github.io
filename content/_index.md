@@ -23,7 +23,7 @@ draft: false
 | 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
 | 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
 | 04/08/2024   | Supernormal, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
-| 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield  [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
+| 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
 | 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
 | 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
 | 01/09/2022   | fakedac~ 003, Corsica Studios, London  | [info/tickets](https://fakedac.net/event/2)
