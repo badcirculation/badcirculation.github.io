@@ -21,13 +21,14 @@ draft: false
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
 | 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
+| 21/09/2024   | MATTERS (support), Pan Pan, Birmingham | [info/tickets](https://tixel.com/uk/music-tickets/2024/09/21/matters-birmingham) |
 | 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
-| 04/08/2024   | Supernormal, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
+| 04/08/2024   | Supernormal Festival, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
 | 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
 | 01/12/2023   | Spectral Karaoke, Pan Pan, Birmingham  | [info/tickets](https://www.instagram.com/p/C0AAPpRo8Vw/) |
 | 18/11/2023   | Adela Festival, Kino Šiška, Ljubljana  | [info/tickets](https://wiki.ljudmila.org/Adela:_Algorave) |
 | 01/09/2022   | fakedac~ 003, Corsica Studios, London  | [info/tickets](https://fakedac.net/event/2)
-| 17/06/2022   | Art Meets Radical Openness, Austria    | [info/tickets](https://www.radical-openness.org/en/programm/2022/algorave-badcirculation)
+| 17/06/2022   | Art Meets Radical Openness, Linz    | [info/tickets](https://www.radical-openness.org/en/programm/2022/algorave-badcirculation)
 | 31/03/2022   | 10 Years of Algorave, Corsica Studios, London | [info/tickets](https://ra.co/events/1499155)
 | 21/10/2021   | Corridor of Light, HATCH, Manchester   | [info/tickets](https://oxfordroadcorridor.com/events/algorave/)
 | 12/09/2021   | Errorcamp                              |
