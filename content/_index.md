@@ -21,7 +21,6 @@ draft: false
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
 | 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
-| 21/09/2024   | MATTERS (support), Pan Pan, Birmingham | [info/tickets](https://tixel.com/uk/music-tickets/2024/09/21/matters-birmingham) |
 | 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
 | 04/08/2024   | Supernormal Festival, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
 | 29/03/2024   | Algorave x Pattern Club, Alder Bar, Sheffield | [info/tickets](https://www.tickettailor.com/events/patternclub/1170747) |
@@ -41,11 +40,11 @@ draft: false
 
 # Listen
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1935866216&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1592323047&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1242599782&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/867434083&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ---
 
