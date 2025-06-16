@@ -20,6 +20,7 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
+| 24/06/2025   | Errorcamp                              |              |
 | 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
 | 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
 | 04/08/2024   | Supernormal Festival, Braziers Park, Oxfordshire | [info/tickets](https://www.supernormalfestival.co.uk/) |
@@ -66,6 +67,7 @@ draft: false
 
 # Look
 {{< gallery >}}
+  {{< figure src="images/errorcamp_emily_jones.jpg" caption="Photo by Emily Jones" >}}
   {{< figure src="images/adela_festival_katja_goljat.jpg" caption="Photo by Katja Goljat" >}}
   {{< figure src="images/amro_eva_maria_dreisiebner_001.jpg" caption="Photo by Maria Dreisiebner" >}}
   {{< figure src="images/corridor_of_light_jon_tutcher_001.jpg" caption="Photo by Jon Tutcher" >}}
