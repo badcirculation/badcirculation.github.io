@@ -32,7 +32,7 @@ theme = 'hugo-researcher'
 #    url = "https://scholar.google.com/"
 
 [permalinks]
-  "/" = "/:filename"
+  "/" = "/:contentbasename"
 
 #[menu]
 #  [[menu.main]]
