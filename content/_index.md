@@ -20,6 +20,7 @@ draft: false
 
 | Date         | Location                               | Info/tickets |
 | ------------ | -------------------------------------- | ------------ |
+| 13/09/2025   | Alpaca Festival, Sheffield             | [info/tickets](https://2025.algorithmicpattern.org/sheffield/#club-night) |
 | 24/06/2025   | Errorcamp                              |              |
 | 12/10/2024   | No Bounds Festival, Sheffield          | [info/tickets](https://noboundsfestival.co.uk/) |
 | 14/09/2024   | British Science Festival, London       | [info/tickets](https://britishscienceassociation-tickets.ticketsolve.com/ticketbooth/shows/1173648576) | 
