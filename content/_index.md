@@ -67,6 +67,7 @@ draft: false
 ---
 
 # Look
+{{< load-photoswipe >}}
 {{< gallery >}}
   {{< figure src="images/errorcamp_emily_jones.jpg" caption="Photo by Emily Jones" >}}
   {{< figure src="images/adela_festival_katja_goljat.jpg" caption="Photo by Katja Goljat" >}}
