@@ -69,12 +69,12 @@ draft: false
 # Look
 {{< load-photoswipe >}}
 {{< gallery >}}
+  {{< figure src="images/alpaca_shared_programme.jpg" caption="Photo by Shared Programme/Peter Martin" >}}
   {{< figure src="images/errorcamp_emily_jones.jpg" caption="Photo by Emily Jones" >}}
   {{< figure src="images/adela_festival_katja_goljat.jpg" caption="Photo by Katja Goljat" >}}
   {{< figure src="images/amro_eva_maria_dreisiebner_001.jpg" caption="Photo by Maria Dreisiebner" >}}
   {{< figure src="images/corridor_of_light_jon_tutcher_001.jpg" caption="Photo by Jon Tutcher" >}}
   {{< figure src="images/errrorcamp_ray_001.jpg" caption="Photo by Ray" >}}
-  {{< figure src="images/errrorcamp_ray_002.jpg" caption="Photo by Ray" >}}
   {{< figure src="images/fakedac_ray_001.jpg" caption="Photo by Ray" >}}
   {{< figure src="images/fakedac_ray_002.jpg" caption="Photo by Ray" >}}
   {{< figure src="images/iclc_robin_parmar_001.jpg" caption="Photo by Robin Parmar" >}}
