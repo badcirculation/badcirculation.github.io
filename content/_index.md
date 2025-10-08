@@ -52,6 +52,10 @@ draft: false
 
 # Watch
 
+## Live at Alapaca Festival 2025
+
+{{< youtube R9qDVXq342I>}}
+
 ## Live at Spectral Karaoke 2023
 
 {{< youtube dr3c-gpI3vU >}}
@@ -59,10 +63,6 @@ draft: false
 ## Live at fakedac~ 2022
 
 {{< youtube nz_7B4AeypM >}}
-
-## Live at Corridor of Light 2021
-
-{{< youtube Vnw4r_orZTc>}}
 
 ---
 
